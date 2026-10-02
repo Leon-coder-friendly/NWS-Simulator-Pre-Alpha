@@ -1,0 +1,10 @@
+
+{"hour":6,"wind":43.34505272498177,"organization":0.32300250224289073}
+{"hour":12,"wind":54.64748292982696,"organization":0.527290215460534}
+{"hour":18,"wind":68.0827952402556,"organization":0.6554171309693546}
+{"hour":24,"wind":81.10279292508078,"organization":0.7357768658708593}
+{"hour":30,"wind":92.56652379111215,"organization":0.7861775718255389}
+{"hour":36,"wind":102.1403581457219,"organization":0.8177883177276203}
+{"hour":42,"wind":109.88797077529792,"organization":0.8376142157494545}
+{"hour":48,"wind":116.03560204502267,"organization":0.8500487920669434}
+{"pressure":995.2570879751419,"summary":{"cells":0,"mature":0,"rotating":0,"organization":false,"mode":"No deep convection","wind":"No strong outflow diagnosed","derecho":"Derecho not diagnosed","tropical":"No organized tropical cyclone"}}

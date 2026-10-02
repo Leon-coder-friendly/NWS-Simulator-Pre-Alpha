@@ -1,0 +1,1409 @@
+[
+  {
+    "id": "KABR",
+    "name": "Aberdeen",
+    "type": "NEXRAD",
+    "lon": -98.41305524873967,
+    "lat": 45.45584068032716
+  },
+  {
+    "id": "KABX",
+    "name": "Albuquerque",
+    "type": "NEXRAD",
+    "lon": -106.82389006596628,
+    "lat": 35.149727644756354
+  },
+  {
+    "id": "KAKQ",
+    "name": "Norfolk",
+    "type": "NEXRAD",
+    "lon": -77.00749317493272,
+    "lat": 36.98389639194715
+  },
+  {
+    "id": "KAMA",
+    "name": "Amarillo",
+    "type": "NEXRAD",
+    "lon": -101.70927790287863,
+    "lat": 35.23333893686629
+  },
+  {
+    "id": "KAMX",
+    "name": "Miami",
+    "type": "NEXRAD",
+    "lon": -80.41305074080425,
+    "lat": 25.610560640039402
+  },
+  {
+    "id": "KAPX",
+    "name": "NCL Michigan",
+    "type": "NEXRAD",
+    "lon": -84.71952819038461,
+    "lat": 44.90635852214033
+  },
+  {
+    "id": "KARX",
+    "name": "La Crosse",
+    "type": "NEXRAD",
+    "lon": -91.19110800508074,
+    "lat": 43.82278595805663
+  },
+  {
+    "id": "KATX",
+    "name": "Seattle",
+    "type": "NEXRAD",
+    "lon": -122.49569906426449,
+    "lat": 48.1946166286055
+  },
+  {
+    "id": "KBBX",
+    "name": "Beale AFB",
+    "type": "NEXRAD",
+    "lon": -121.63167130942487,
+    "lat": 39.49611614410011
+  },
+  {
+    "id": "KBGM",
+    "name": "Binghamton",
+    "type": "NEXRAD",
+    "lon": -75.98471518081276,
+    "lat": 42.19970246743383
+  },
+  {
+    "id": "KBHX",
+    "name": "Eureka - Bunker Hill",
+    "type": "NEXRAD",
+    "lon": -124.29217184252556,
+    "lat": 40.49833799988165
+  },
+  {
+    "id": "KBIS",
+    "name": "Bismarck",
+    "type": "NEXRAD",
+    "lon": -100.76027809298745,
+    "lat": 46.77084065575344
+  },
+  {
+    "id": "KBLX",
+    "name": "Billings",
+    "type": "NEXRAD",
+    "lon": -108.60680784779996,
+    "lat": 45.853784863378586
+  },
+  {
+    "id": "KBMX",
+    "name": "Birmingham",
+    "type": "NEXRAD",
+    "lon": -86.76971785235341,
+    "lat": 33.17195022205922
+  },
+  {
+    "id": "KBOX",
+    "name": "Boston",
+    "type": "NEXRAD",
+    "lon": -71.13685159327461,
+    "lat": 41.95578659336907
+  },
+  {
+    "id": "KBRO",
+    "name": "Brownsville",
+    "type": "NEXRAD",
+    "lon": -97.41861038098891,
+    "lat": 25.91556033489371
+  },
+  {
+    "id": "KBUF",
+    "name": "Buffalo",
+    "type": "NEXRAD",
+    "lon": -78.73693811784501,
+    "lat": 42.94861948926168
+  },
+  {
+    "id": "KBYX",
+    "name": "Key West",
+    "type": "NEXRAD",
+    "lon": -81.70332809094714,
+    "lat": 24.59694835559539
+  },
+  {
+    "id": "KCAE",
+    "name": "Columbia",
+    "type": "NEXRAD",
+    "lon": -81.11860525727124,
+    "lat": 33.94861759525832
+  },
+  {
+    "id": "KCBW",
+    "name": "Caribou",
+    "type": "NEXRAD",
+    "lon": -67.80640671288532,
+    "lat": 46.03917643962341
+  },
+  {
+    "id": "KCBX",
+    "name": "Boise",
+    "type": "NEXRAD",
+    "lon": -116.23603599686834,
+    "lat": 43.49022294101355
+  },
+  {
+    "id": "KCCX",
+    "name": "State College",
+    "type": "NEXRAD",
+    "lon": -78.00388273088191,
+    "lat": 40.92306414490694
+  },
+  {
+    "id": "KCLE",
+    "name": "Cleveland",
+    "type": "NEXRAD",
+    "lon": -81.85999496820035,
+    "lat": 41.41306406724415
+  },
+  {
+    "id": "KCLX",
+    "name": "Charleston, SC",
+    "type": "NEXRAD",
+    "lon": -81.04218917200728,
+    "lat": 32.655534311216556
+  },
+  {
+    "id": "KCRI",
+    "name": "ROC FAA Redundant - RDA 1",
+    "type": "NEXRAD",
+    "lon": -97.4599988581295,
+    "lat": 35.23833915734305
+  },
+  {
+    "id": "KCRP",
+    "name": "Corpus Christi",
+    "type": "NEXRAD",
+    "lon": -97.51083246381415,
+    "lat": 27.783893723849793
+  },
+  {
+    "id": "KCXX",
+    "name": "Burlington",
+    "type": "NEXRAD",
+    "lon": -73.16638042681515,
+    "lat": 44.511119996367036
+  },
+  {
+    "id": "KCYS",
+    "name": "Cheyenne",
+    "type": "NEXRAD",
+    "lon": -104.80611223838773,
+    "lat": 41.151950623183374
+  },
+  {
+    "id": "KDAX",
+    "name": "Sacramento",
+    "type": "NEXRAD",
+    "lon": -121.67783718894317,
+    "lat": 38.5011160592513
+  },
+  {
+    "id": "KDDC",
+    "name": "Dodge City",
+    "type": "NEXRAD",
+    "lon": -99.96888869862163,
+    "lat": 37.760839446630314
+  },
+  {
+    "id": "KDFX",
+    "name": "Laughlin AFB",
+    "type": "NEXRAD",
+    "lon": -100.28027819971422,
+    "lat": 29.27250493356085
+  },
+  {
+    "id": "KDGX",
+    "name": "Jackson - Brandon, MS",
+    "type": "NEXRAD",
+    "lon": -89.98444169945192,
+    "lat": 32.28000591330734
+  },
+  {
+    "id": "KDIX",
+    "name": "Philadelphia",
+    "type": "NEXRAD",
+    "lon": -74.41071453140817,
+    "lat": 39.94695209085751
+  },
+  {
+    "id": "KDLH",
+    "name": "Duluth",
+    "type": "NEXRAD",
+    "lon": -92.20971971532089,
+    "lat": 46.836952332724
+  },
+  {
+    "id": "KDMX",
+    "name": "Des Moines",
+    "type": "NEXRAD",
+    "lon": -93.72285947458197,
+    "lat": 41.731118467736884
+  },
+  {
+    "id": "KDOX",
+    "name": "Dover AFB",
+    "type": "NEXRAD",
+    "lon": -75.4399927915179,
+    "lat": 38.82556382876094
+  },
+  {
+    "id": "KDTX",
+    "name": "Detroit",
+    "type": "NEXRAD",
+    "lon": -83.47166257754267,
+    "lat": 42.7000082180811
+  },
+  {
+    "id": "KDVN",
+    "name": "Quad Cities",
+    "type": "NEXRAD",
+    "lon": -90.58083057912519,
+    "lat": 41.61167463931426
+  },
+  {
+    "id": "KDYX",
+    "name": "Dyess AFB",
+    "type": "NEXRAD",
+    "lon": -99.25416712261521,
+    "lat": 32.53833858607326
+  },
+  {
+    "id": "KEAX",
+    "name": "Pleasant Hill",
+    "type": "NEXRAD",
+    "lon": -94.26447032251484,
+    "lat": 38.81025695187804
+  },
+  {
+    "id": "KEMX",
+    "name": "Tucson",
+    "type": "NEXRAD",
+    "lon": -110.63028062597056,
+    "lat": 31.893615967576114
+  },
+  {
+    "id": "KENX",
+    "name": "Albany",
+    "type": "NEXRAD",
+    "lon": -74.06407558682606,
+    "lat": 42.58656461288065
+  },
+  {
+    "id": "KEOX",
+    "name": "Fort Rucker",
+    "type": "NEXRAD",
+    "lon": -85.45938539699857,
+    "lat": 31.460561898085267
+  },
+  {
+    "id": "KEPZ",
+    "name": "El Paso",
+    "type": "NEXRAD",
+    "lon": -106.69800180327178,
+    "lat": 31.873061142435066
+  },
+  {
+    "id": "KESX",
+    "name": "Las Vegas",
+    "type": "NEXRAD",
+    "lon": -114.89139274137617,
+    "lat": 35.701116243393066
+  },
+  {
+    "id": "KEVX",
+    "name": "Eglin AFB",
+    "type": "NEXRAD",
+    "lon": -85.92166348804342,
+    "lat": 30.565038683130492
+  },
+  {
+    "id": "KEWX",
+    "name": "Austin - San Antonio",
+    "type": "NEXRAD",
+    "lon": -98.02861067039109,
+    "lat": 29.704061094466365
+  },
+  {
+    "id": "KEYX",
+    "name": "Edwards AFB",
+    "type": "NEXRAD",
+    "lon": -117.56075316049473,
+    "lat": 35.09778301150991
+  },
+  {
+    "id": "KFCX",
+    "name": "Roanoke",
+    "type": "NEXRAD",
+    "lon": -80.27416117357912,
+    "lat": 37.02417427996926
+  },
+  {
+    "id": "KFDR",
+    "name": "Altus AFB",
+    "type": "NEXRAD",
+    "lon": -98.97666717377545,
+    "lat": 34.362199926570305
+  },
+  {
+    "id": "KFDX",
+    "name": "Cannon AFB",
+    "type": "NEXRAD",
+    "lon": -103.61889030395193,
+    "lat": 34.63417273784585
+  },
+  {
+    "id": "KFFC",
+    "name": "Atlanta",
+    "type": "NEXRAD",
+    "lon": -84.5658292336424,
+    "lat": 33.36333934463933
+  },
+  {
+    "id": "KFSD",
+    "name": "Sioux Falls",
+    "type": "NEXRAD",
+    "lon": -96.72888852318249,
+    "lat": 43.58778554787883
+  },
+  {
+    "id": "KFSX",
+    "name": "Flagstaff - RDA 1",
+    "type": "NEXRAD",
+    "lon": -111.1984459333151,
+    "lat": 34.57433831749645
+  },
+  {
+    "id": "KFTG",
+    "name": "Denver",
+    "type": "NEXRAD",
+    "lon": -104.54580701067329,
+    "lat": 39.78664545594612
+  },
+  {
+    "id": "KFWS",
+    "name": "Dallas - Fort Worth",
+    "type": "NEXRAD",
+    "lon": -97.30313864007096,
+    "lat": 32.57278367610358
+  },
+  {
+    "id": "KGGW",
+    "name": "Glasgow",
+    "type": "NEXRAD",
+    "lon": -106.62469485547813,
+    "lat": 48.20636828640892
+  },
+  {
+    "id": "KGJX",
+    "name": "Grand Junction - RDA 1",
+    "type": "NEXRAD",
+    "lon": -108.21376275220882,
+    "lat": 39.06222810370067
+  },
+  {
+    "id": "KGLD",
+    "name": "Goodland",
+    "type": "NEXRAD",
+    "lon": -101.70027828571489,
+    "lat": 39.36695058698846
+  },
+  {
+    "id": "KGRB",
+    "name": "Green Bay",
+    "type": "NEXRAD",
+    "lon": -88.11110717901948,
+    "lat": 44.49864125723589
+  },
+  {
+    "id": "KGRK",
+    "name": "Fort Hood",
+    "type": "NEXRAD",
+    "lon": -97.38277755807914,
+    "lat": 30.72167231789983
+  },
+  {
+    "id": "KGRR",
+    "name": "Grand Rapids",
+    "type": "NEXRAD",
+    "lon": -85.54488522934756,
+    "lat": 42.893897142290136
+  },
+  {
+    "id": "KGSP",
+    "name": "Greer",
+    "type": "NEXRAD",
+    "lon": -82.21982863088199,
+    "lat": 34.88331275742814
+  },
+  {
+    "id": "KGWX",
+    "name": "Columbus AFB",
+    "type": "NEXRAD",
+    "lon": -88.32919133146214,
+    "lat": 33.89692331248149
+  },
+  {
+    "id": "KGYX",
+    "name": "Portland, ME",
+    "type": "NEXRAD",
+    "lon": -70.25635141579873,
+    "lat": 43.89131498456564
+  },
+  {
+    "id": "KHDX",
+    "name": "Holloman AFB",
+    "type": "NEXRAD",
+    "lon": -106.1200337552551,
+    "lat": 33.07700536228905
+  },
+  {
+    "id": "KHGX",
+    "name": "Houston",
+    "type": "NEXRAD",
+    "lon": -95.07888791600134,
+    "lat": 29.47194914746079
+  },
+  {
+    "id": "KHNX",
+    "name": "San Joaquin Valley",
+    "type": "NEXRAD",
+    "lon": -119.63214262209594,
+    "lat": 36.314172006455856
+  },
+  {
+    "id": "KHPX",
+    "name": "Fort Campbell",
+    "type": "NEXRAD",
+    "lon": -87.28499621817456,
+    "lat": 36.7366739269027
+  },
+  {
+    "id": "KHTX",
+    "name": "Northeast Alabama",
+    "type": "NEXRAD",
+    "lon": -86.08360775738507,
+    "lat": 34.93056261655796
+  },
+  {
+    "id": "KICT",
+    "name": "Wichita",
+    "type": "NEXRAD",
+    "lon": -97.44305505173443,
+    "lat": 37.65445057557697
+  },
+  {
+    "id": "KICX",
+    "name": "Cedar City - RDA 1",
+    "type": "NEXRAD",
+    "lon": -112.86222454548957,
+    "lat": 37.59105560017506
+  },
+  {
+    "id": "KILN",
+    "name": "Cincinnati",
+    "type": "NEXRAD",
+    "lon": -83.82166240347033,
+    "lat": 39.420285603390404
+  },
+  {
+    "id": "KILX",
+    "name": "Lincoln",
+    "type": "NEXRAD",
+    "lon": -89.3367890791764,
+    "lat": 40.15050745931269
+  },
+  {
+    "id": "KIND",
+    "name": "Indianapolis",
+    "type": "NEXRAD",
+    "lon": -86.28027415465287,
+    "lat": 39.70750753874811
+  },
+  {
+    "id": "KINX",
+    "name": "Tulsa",
+    "type": "NEXRAD",
+    "lon": -95.56413744162407,
+    "lat": 36.17500642078247
+  },
+  {
+    "id": "KIWA",
+    "name": "Phoenix",
+    "type": "NEXRAD",
+    "lon": -111.67000292774551,
+    "lat": 33.289172116393786
+  },
+  {
+    "id": "KIWX",
+    "name": "Northern Indiana",
+    "type": "NEXRAD",
+    "lon": -85.69999612751062,
+    "lat": 41.35861886684077
+  },
+  {
+    "id": "KJAX",
+    "name": "Jacksonville",
+    "type": "NEXRAD",
+    "lon": -81.70189527357739,
+    "lat": 30.484638794645193
+  },
+  {
+    "id": "KJGX",
+    "name": "Robins AFB",
+    "type": "NEXRAD",
+    "lon": -83.35110684822371,
+    "lat": 32.675006237715216
+  },
+  {
+    "id": "KJKL",
+    "name": "Jackson, KY",
+    "type": "NEXRAD",
+    "lon": -83.31305111988888,
+    "lat": 37.590840271205
+  },
+  {
+    "id": "KLBB",
+    "name": "Lubbock",
+    "type": "NEXRAD",
+    "lon": -101.81416781134652,
+    "lat": 33.65414466622026
+  },
+  {
+    "id": "KLCH",
+    "name": "Lake Charles",
+    "type": "NEXRAD",
+    "lon": -93.2158874609855,
+    "lat": 30.125311345581963
+  },
+  {
+    "id": "KLIX",
+    "name": "Slidell",
+    "type": "NEXRAD",
+    "lon": -89.82541456257006,
+    "lat": 30.3366725050614
+  },
+  {
+    "id": "KLNX",
+    "name": "North Platte",
+    "type": "NEXRAD",
+    "lon": -100.57622131322684,
+    "lat": 41.95795104008101
+  },
+  {
+    "id": "KLOT",
+    "name": "Chicago",
+    "type": "NEXRAD",
+    "lon": -88.08444085599872,
+    "lat": 41.60445178139258
+  },
+  {
+    "id": "KLRX",
+    "name": "Elko - RDA 1",
+    "type": "NEXRAD",
+    "lon": -116.80278167231488,
+    "lat": 40.739727642387116
+  },
+  {
+    "id": "KLSX",
+    "name": "Saint Louis",
+    "type": "NEXRAD",
+    "lon": -90.68277533039141,
+    "lat": 38.698896128718495
+  },
+  {
+    "id": "KLTX",
+    "name": "Wilmington",
+    "type": "NEXRAD",
+    "lon": -78.4291614557722,
+    "lat": 33.98917369496
+  },
+  {
+    "id": "KLVX",
+    "name": "Louisville",
+    "type": "NEXRAD",
+    "lon": -85.9438849200889,
+    "lat": 37.97528522901479
+  },
+  {
+    "id": "KLWX",
+    "name": "Sterling",
+    "type": "NEXRAD",
+    "lon": -77.48749344010847,
+    "lat": 38.976118784252584
+  },
+  {
+    "id": "KLZK",
+    "name": "Little Rock",
+    "type": "NEXRAD",
+    "lon": -92.26194246947267,
+    "lat": 34.83639533181493
+  },
+  {
+    "id": "KMAF",
+    "name": "Midland - Odessa",
+    "type": "NEXRAD",
+    "lon": -102.18925079009946,
+    "lat": 31.943466351896316
+  },
+  {
+    "id": "KMAX",
+    "name": "Medford - RDA 1",
+    "type": "NEXRAD",
+    "lon": -122.71736585526538,
+    "lat": 42.081116244349204
+  },
+  {
+    "id": "KMBX",
+    "name": "Minot AFB",
+    "type": "NEXRAD",
+    "lon": -100.86444342573706,
+    "lat": 48.39250783600156
+  },
+  {
+    "id": "KMHX",
+    "name": "Morehead City",
+    "type": "NEXRAD",
+    "lon": -76.87638302255965,
+    "lat": 34.77583991936186
+  },
+  {
+    "id": "KMKX",
+    "name": "Milwaukee",
+    "type": "NEXRAD",
+    "lon": -88.5505521347177,
+    "lat": 42.96778598386101
+  },
+  {
+    "id": "KMLB",
+    "name": "Melbourne",
+    "type": "NEXRAD",
+    "lon": -80.65443888324467,
+    "lat": 28.11306125804252
+  },
+  {
+    "id": "KMOB",
+    "name": "Mobile",
+    "type": "NEXRAD",
+    "lon": -88.23971914174027,
+    "lat": 30.67944963270255
+  },
+  {
+    "id": "KMPX",
+    "name": "Minneapolis",
+    "type": "NEXRAD",
+    "lon": -93.56552581921585,
+    "lat": 44.84889695391723
+  },
+  {
+    "id": "KMQT",
+    "name": "Marquette",
+    "type": "NEXRAD",
+    "lon": -87.54832926516482,
+    "lat": 46.531119604905435
+  },
+  {
+    "id": "KMRX",
+    "name": "Knoxville",
+    "type": "NEXRAD",
+    "lon": -83.40193905433313,
+    "lat": 36.16833998018222
+  },
+  {
+    "id": "KMSX",
+    "name": "Missoula - RDA 1",
+    "type": "NEXRAD",
+    "lon": -113.98611424358688,
+    "lat": 47.04111745700206
+  },
+  {
+    "id": "KMTX",
+    "name": "Salt Lake City - RDA 1",
+    "type": "NEXRAD",
+    "lon": -112.44778091777232,
+    "lat": 41.26278404787225
+  },
+  {
+    "id": "KMUX",
+    "name": "San Francisco",
+    "type": "NEXRAD",
+    "lon": -121.89844806692146,
+    "lat": 37.15522692941743
+  },
+  {
+    "id": "KMVX",
+    "name": "Fargo - Grand Forks",
+    "type": "NEXRAD",
+    "lon": -97.32499929702023,
+    "lat": 47.52806403272552
+  },
+  {
+    "id": "KMXX",
+    "name": "Maxwell AFB",
+    "type": "NEXRAD",
+    "lon": -85.78974554182079,
+    "lat": 32.53665612210103
+  },
+  {
+    "id": "KNKX",
+    "name": "San Diego",
+    "type": "NEXRAD",
+    "lon": -117.04194789478207,
+    "lat": 32.91889379081925
+  },
+  {
+    "id": "KNQA",
+    "name": "Memphis",
+    "type": "NEXRAD",
+    "lon": -89.87332985091705,
+    "lat": 35.344728538176554
+  },
+  {
+    "id": "KOAX",
+    "name": "Omaha",
+    "type": "NEXRAD",
+    "lon": -96.36680414413291,
+    "lat": 41.320285233482075
+  },
+  {
+    "id": "KOHX",
+    "name": "Nashville",
+    "type": "NEXRAD",
+    "lon": -86.56249597740934,
+    "lat": 36.24722886284721
+  },
+  {
+    "id": "KOKX",
+    "name": "Brookhaven",
+    "type": "NEXRAD",
+    "lon": -72.86390909084284,
+    "lat": 40.86553632576755
+  },
+  {
+    "id": "KOTX",
+    "name": "Spokane",
+    "type": "NEXRAD",
+    "lon": -117.62583709546756,
+    "lat": 47.68056212906299
+  },
+  {
+    "id": "KPAH",
+    "name": "Paducah",
+    "type": "NEXRAD",
+    "lon": -88.7719406635762,
+    "lat": 37.06833992223178
+  },
+  {
+    "id": "KPBZ",
+    "name": "Pittsburgh",
+    "type": "NEXRAD",
+    "lon": -80.21793839214706,
+    "lat": 40.53167497703514
+  },
+  {
+    "id": "KPDT",
+    "name": "Pendleton",
+    "type": "NEXRAD",
+    "lon": -118.85292088310068,
+    "lat": 45.69056186430798
+  },
+  {
+    "id": "KPOE",
+    "name": "Fort Polk",
+    "type": "NEXRAD",
+    "lon": -92.97583144644958,
+    "lat": 31.15528356812697
+  },
+  {
+    "id": "KPUX",
+    "name": "Pueblo",
+    "type": "NEXRAD",
+    "lon": -104.18138977959435,
+    "lat": 38.4594502920364
+  },
+  {
+    "id": "KRAX",
+    "name": "Raleigh Durham",
+    "type": "NEXRAD",
+    "lon": -78.4899945574307,
+    "lat": 35.66528505942677
+  },
+  {
+    "id": "KRGX",
+    "name": "Reno - RDA 1",
+    "type": "NEXRAD",
+    "lon": -119.46203199578014,
+    "lat": 39.754061338454115
+  },
+  {
+    "id": "KRIW",
+    "name": "Riverton Lander",
+    "type": "NEXRAD",
+    "lon": -108.4773013445159,
+    "lat": 43.066117572722945
+  },
+  {
+    "id": "KRLX",
+    "name": "Charleston, WV",
+    "type": "NEXRAD",
+    "lon": -81.72277269300716,
+    "lat": 38.311118481906114
+  },
+  {
+    "id": "KRTX",
+    "name": "Portland, OR",
+    "type": "NEXRAD",
+    "lon": -122.96500456708084,
+    "lat": 45.71500544659098
+  },
+  {
+    "id": "KSFX",
+    "name": "Pocatello",
+    "type": "NEXRAD",
+    "lon": -112.68613524378407,
+    "lat": 43.10560622036288
+  },
+  {
+    "id": "KSGF",
+    "name": "Springfield",
+    "type": "NEXRAD",
+    "lon": -93.40027595354623,
+    "lat": 37.23528472280441
+  },
+  {
+    "id": "KSHV",
+    "name": "Shreveport",
+    "type": "NEXRAD",
+    "lon": -93.84124874232013,
+    "lat": 32.450838796494615
+  },
+  {
+    "id": "KSJT",
+    "name": "San Angelo",
+    "type": "NEXRAD",
+    "lon": -100.49222235461352,
+    "lat": 31.371116319848454
+  },
+  {
+    "id": "KSOX",
+    "name": "Santa Ana Mountains",
+    "type": "NEXRAD",
+    "lon": -117.63600306543327,
+    "lat": 33.81773786371807
+  },
+  {
+    "id": "KSRX",
+    "name": "Western Arkansas",
+    "type": "NEXRAD",
+    "lon": -94.3618870607942,
+    "lat": 35.29042331898914
+  },
+  {
+    "id": "KTBW",
+    "name": "Tampa",
+    "type": "NEXRAD",
+    "lon": -82.40193937766621,
+    "lat": 27.70528311471474
+  },
+  {
+    "id": "KTFX",
+    "name": "Great Falls",
+    "type": "NEXRAD",
+    "lon": -111.38528078722783,
+    "lat": 47.459728752334755
+  },
+  {
+    "id": "KTLH",
+    "name": "Tallahassee",
+    "type": "NEXRAD",
+    "lon": -84.32888502816644,
+    "lat": 30.397505695070276
+  },
+  {
+    "id": "KTLX",
+    "name": "Norman",
+    "type": "NEXRAD",
+    "lon": -97.27776081827291,
+    "lat": 35.33306218351651
+  },
+  {
+    "id": "KTWX",
+    "name": "Topeka",
+    "type": "NEXRAD",
+    "lon": -96.23249886305894,
+    "lat": 38.99695086943614
+  },
+  {
+    "id": "KTYX",
+    "name": "Fort Drum",
+    "type": "NEXRAD",
+    "lon": -75.67999219781787,
+    "lat": 43.755841764314916
+  },
+  {
+    "id": "KUDX",
+    "name": "Rapid City",
+    "type": "NEXRAD",
+    "lon": -102.83000018170833,
+    "lat": 44.12472915987411
+  },
+  {
+    "id": "KUEX",
+    "name": "Grand Island",
+    "type": "NEXRAD",
+    "lon": -98.44194357527697,
+    "lat": 40.32083994365277
+  },
+  {
+    "id": "KVAX",
+    "name": "Moody AFB",
+    "type": "NEXRAD",
+    "lon": -83.00180166704737,
+    "lat": 30.89028384886853
+  },
+  {
+    "id": "KVBX",
+    "name": "Vandenberg AFB",
+    "type": "NEXRAD",
+    "lon": -120.39792160466699,
+    "lat": 34.83855481213029
+  },
+  {
+    "id": "KVNX",
+    "name": "Vance AFB",
+    "type": "NEXRAD",
+    "lon": -98.12749914644819,
+    "lat": 36.740839383079525
+  },
+  {
+    "id": "KVTX",
+    "name": "Los Angeles",
+    "type": "NEXRAD",
+    "lon": -119.17861437165006,
+    "lat": 34.41167184132599
+  },
+  {
+    "id": "KVWX",
+    "name": "Evansville, IN (Non-Nexrad)",
+    "type": "NEXRAD",
+    "lon": -87.72452445668277,
+    "lat": 38.26025719843706
+  },
+  {
+    "id": "KYUX",
+    "name": "Yuma - RDA 1",
+    "type": "NEXRAD",
+    "lon": -114.6566974394679,
+    "lat": 32.49528285903963
+  },
+  {
+    "id": "PABC",
+    "name": "Bethel FAA - RDA 1",
+    "type": "NEXRAD",
+    "lon": -161.87639704141415,
+    "lat": 60.79194375225516
+  },
+  {
+    "id": "PACG",
+    "name": "Sitka FAA - RDA 1",
+    "type": "NEXRAD",
+    "lon": -135.52917384447494,
+    "lat": 56.85278206665173
+  },
+  {
+    "id": "PAEC",
+    "name": "Nome FAA - RDA 1",
+    "type": "NEXRAD",
+    "lon": -165.29500843181944,
+    "lat": 64.51138782530153
+  },
+  {
+    "id": "PAHG",
+    "name": "Anchorage FAA - RDA 1",
+    "type": "NEXRAD",
+    "lon": -151.34917568108423,
+    "lat": 60.72639043502496
+  },
+  {
+    "id": "PAIH",
+    "name": "Middleton Island - RDA 1",
+    "type": "NEXRAD",
+    "lon": -146.30111888621832,
+    "lat": 59.461946320065046
+  },
+  {
+    "id": "PAKC",
+    "name": "King Salmon FAA - RDA 1",
+    "type": "NEXRAD",
+    "lon": -156.62945219071696,
+    "lat": 58.67944475747774
+  },
+  {
+    "id": "PAPD",
+    "name": "Fairbanks FAA - RDA 1",
+    "type": "NEXRAD",
+    "lon": -147.4991772131978,
+    "lat": 65.03555780025258
+  },
+  {
+    "id": "PGUA",
+    "name": "Andersen AFB",
+    "type": "NEXRAD",
+    "lon": 144.81111321050042,
+    "lat": 13.455839893954115
+  },
+  {
+    "id": "PHKI",
+    "name": "South Kauai FAA - RDA 1",
+    "type": "NEXRAD",
+    "lon": -159.55250632599208,
+    "lat": 21.893892402688433
+  },
+  {
+    "id": "PHKM",
+    "name": "Kamuela - Kohala APT - RDA 1",
+    "type": "NEXRAD",
+    "lon": -155.7777854859522,
+    "lat": 20.125281456273633
+  },
+  {
+    "id": "PHMO",
+    "name": "Molokai FAA - RDA 1",
+    "type": "NEXRAD",
+    "lon": -157.18028442829763,
+    "lat": 21.132781425177555
+  },
+  {
+    "id": "PHWA",
+    "name": "South Shore FAA - RDA 1",
+    "type": "NEXRAD",
+    "lon": -155.568895514984,
+    "lat": 19.095003500053316
+  },
+  {
+    "id": "TADW",
+    "name": "Andrews Air Force Base",
+    "type": "TDWR",
+    "lon": -76.84500222324851,
+    "lat": 38.695007751477945
+  },
+  {
+    "id": "TATL",
+    "name": "Atlanta",
+    "type": "TDWR",
+    "lon": -84.26200416079142,
+    "lat": 33.64700641704227
+  },
+  {
+    "id": "TBNA",
+    "name": "Nashville",
+    "type": "TDWR",
+    "lon": -86.66200498810515,
+    "lat": 35.98000680530631
+  },
+  {
+    "id": "TBOS",
+    "name": "Boston",
+    "type": "TDWR",
+    "lon": -70.93300053773804,
+    "lat": 42.15800863862626
+  },
+  {
+    "id": "TBWI",
+    "name": "Baltimore - Washington",
+    "type": "TDWR",
+    "lon": -76.63000217941571,
+    "lat": 39.09000783903337
+  },
+  {
+    "id": "TCLT",
+    "name": "Charlotte",
+    "type": "TDWR",
+    "lon": -80.88500326075932,
+    "lat": 35.33700690313083
+  },
+  {
+    "id": "TCMH",
+    "name": "Columbus, OH",
+    "type": "TDWR",
+    "lon": -82.71500411638944,
+    "lat": 40.00600776534087
+  },
+  {
+    "id": "TCVG",
+    "name": "Covington",
+    "type": "TDWR",
+    "lon": -84.58000458863867,
+    "lat": 38.898007469140026
+  },
+  {
+    "id": "TDAL",
+    "name": "Dallas Love Field",
+    "type": "TDWR",
+    "lon": -96.96800757691076,
+    "lat": 32.92600575773003
+  },
+  {
+    "id": "TDAY",
+    "name": "Dayton",
+    "type": "TDWR",
+    "lon": -84.12300454096084,
+    "lat": 40.022007702342464
+  },
+  {
+    "id": "TDCA",
+    "name": "Washington National",
+    "type": "TDWR",
+    "lon": -76.96200226346777,
+    "lat": 38.75900776034499
+  },
+  {
+    "id": "TDEN",
+    "name": "Denver",
+    "type": "TDWR",
+    "lon": -104.5260099995273,
+    "lat": 39.728006449403296
+  },
+  {
+    "id": "TDFW",
+    "name": "Dallas - Fort Worth",
+    "type": "TDWR",
+    "lon": -96.91800757277551,
+    "lat": 33.06500578565727
+  },
+  {
+    "id": "TDTW",
+    "name": "Detroit",
+    "type": "TDWR",
+    "lon": -83.51500453649001,
+    "lat": 42.11100811251353
+  },
+  {
+    "id": "TEWR",
+    "name": "Newark",
+    "type": "TDWR",
+    "lon": -74.2700015260901,
+    "lat": 40.59300822382098
+  },
+  {
+    "id": "TFLL",
+    "name": "Fort Lauderdale",
+    "type": "TDWR",
+    "lon": -80.34400273451868,
+    "lat": 26.143004776148643
+  },
+  {
+    "id": "THOU",
+    "name": "Houston Hobby",
+    "type": "TDWR",
+    "lon": -95.24200695985073,
+    "lat": 29.516005151065343
+  },
+  {
+    "id": "TIAD",
+    "name": "Dulles",
+    "type": "TDWR",
+    "lon": -77.52900245948209,
+    "lat": 39.084007804105966
+  },
+  {
+    "id": "TIAH",
+    "name": "Houston International",
+    "type": "TDWR",
+    "lon": -95.56700706757837,
+    "lat": 30.0650052527165
+  },
+  {
+    "id": "TICH",
+    "name": "Witchita",
+    "type": "TDWR",
+    "lon": -97.43700803700949,
+    "lat": 37.507006551406064
+  },
+  {
+    "id": "TIDS",
+    "name": "Indianapolis",
+    "type": "TDWR",
+    "lon": -86.43600519489087,
+    "lat": 39.637007518000466
+  },
+  {
+    "id": "TJFK",
+    "name": "New York City",
+    "type": "TDWR",
+    "lon": -73.8810014013912,
+    "lat": 40.589008236691576
+  },
+  {
+    "id": "TJUA",
+    "name": "San Juan FAA - RDA 1",
+    "type": "NEXRAD",
+    "lon": -66.07815726322447,
+    "lat": 18.11566981108796
+  },
+  {
+    "id": "TLAS",
+    "name": "Las Vegas",
+    "type": "TDWR",
+    "lon": -115.00701180420407,
+    "lat": 36.14400528845951
+  },
+  {
+    "id": "TLVE",
+    "name": "Cleveland, OH",
+    "type": "TDWR",
+    "lon": -82.00800400401779,
+    "lat": 41.290008037647134
+  },
+  {
+    "id": "TMCI",
+    "name": "Kansas City",
+    "type": "TDWR",
+    "lon": -94.742007516776,
+    "lat": 39.49800704077618
+  },
+  {
+    "id": "TMCO",
+    "name": "Orlando International",
+    "type": "TDWR",
+    "lon": -81.32600308612832,
+    "lat": 28.344005297251258
+  },
+  {
+    "id": "TMDW",
+    "name": "Chicago Midway",
+    "type": "TDWR",
+    "lon": -87.73000575645922,
+    "lat": 41.651007809149064
+  },
+  {
+    "id": "TMEM",
+    "name": "Memphis",
+    "type": "TDWR",
+    "lon": -89.99300585468839,
+    "lat": 34.896006443949695
+  },
+  {
+    "id": "TMIA",
+    "name": "Miami",
+    "type": "TDWR",
+    "lon": -80.49100276733765,
+    "lat": 25.758004675784854
+  },
+  {
+    "id": "TMKE",
+    "name": "Milwaukee",
+    "type": "TDWR",
+    "lon": -88.04600596944371,
+    "lat": 42.81900798854204
+  },
+  {
+    "id": "TMSP",
+    "name": "Minneapolis",
+    "type": "TDWR",
+    "lon": -92.93300764114804,
+    "lat": 44.87100800043263
+  },
+  {
+    "id": "TMSY",
+    "name": "New Orleans",
+    "type": "TDWR",
+    "lon": -90.40300570534131,
+    "lat": 30.022005417749515
+  },
+  {
+    "id": "TOKC",
+    "name": "Oklahoma City",
+    "type": "TDWR",
+    "lon": -97.51000787326538,
+    "lat": 35.27600616112258
+  },
+  {
+    "id": "TORD",
+    "name": "Chicago O'Hare",
+    "type": "TDWR",
+    "lon": -87.85800580926634,
+    "lat": 41.79700782719159
+  },
+  {
+    "id": "TPBI",
+    "name": "West Palm Beach",
+    "type": "TDWR",
+    "lon": -80.27300272864662,
+    "lat": 26.68800491504542
+  },
+  {
+    "id": "TPHL",
+    "name": "Philadelphia",
+    "type": "TDWR",
+    "lon": -75.06900174039376,
+    "lat": 39.94900806814439
+  },
+  {
+    "id": "TPHX",
+    "name": "Phoenix",
+    "type": "TDWR",
+    "lon": -112.16301103359392,
+    "lat": 33.421005108714525
+  },
+  {
+    "id": "TPIT",
+    "name": "Pittsburgh",
+    "type": "TDWR",
+    "lon": -80.48600347299991,
+    "lat": 40.501007959229646
+  },
+  {
+    "id": "TRDU",
+    "name": "Raleigh Durham",
+    "type": "TDWR",
+    "lon": -78.69700263872704,
+    "lat": 36.00200712381075
+  },
+  {
+    "id": "TSDF",
+    "name": "Louisville, KY",
+    "type": "TDWR",
+    "lon": -85.61000482833552,
+    "lat": 38.046007258402426
+  },
+  {
+    "id": "TSJU",
+    "name": "San Juan",
+    "type": "TDWR",
+    "lon": -66.17899830121348,
+    "lat": 18.47400291457343
+  },
+  {
+    "id": "TSLC",
+    "name": "Salt Lake City",
+    "type": "TDWR",
+    "lon": -111.93001177160335,
+    "lat": 40.96700605716126
+  },
+  {
+    "id": "TSTL",
+    "name": "Saint Louis",
+    "type": "TDWR",
+    "lon": -90.48900628557912,
+    "lat": 38.80500715853983
+  },
+  {
+    "id": "TTPA",
+    "name": "Tampa Bay",
+    "type": "TDWR",
+    "lon": -82.51800341647855,
+    "lat": 27.860005149038088
+  },
+  {
+    "id": "TTUL",
+    "name": "Tulsa",
+    "type": "TDWR",
+    "lon": -95.82700750230681,
+    "lat": 36.07100638872839
+  }
+]

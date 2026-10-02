@@ -1,0 +1,3827 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41305524873967,
+          45.45584068032716
+        ],
+        "crs": null
+      },
+      "id": 1,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KABR",
+        "antennaelevation": null,
+        "sitename": "Aberdeen",
+        "radartype": "NEXRAD",
+        "objectid": 1
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.82389006596628,
+          35.149727644756354
+        ],
+        "crs": null
+      },
+      "id": 2,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KABX",
+        "antennaelevation": null,
+        "sitename": "Albuquerque",
+        "radartype": "NEXRAD",
+        "objectid": 2
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00749317493272,
+          36.98389639194715
+        ],
+        "crs": null
+      },
+      "id": 3,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KAKQ",
+        "antennaelevation": null,
+        "sitename": "Norfolk",
+        "radartype": "NEXRAD",
+        "objectid": 3
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.70927790287863,
+          35.23333893686629
+        ],
+        "crs": null
+      },
+      "id": 4,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KAMA",
+        "antennaelevation": null,
+        "sitename": "Amarillo",
+        "radartype": "NEXRAD",
+        "objectid": 4
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41305074080425,
+          25.610560640039402
+        ],
+        "crs": null
+      },
+      "id": 5,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KAMX",
+        "antennaelevation": null,
+        "sitename": "Miami",
+        "radartype": "NEXRAD",
+        "objectid": 5
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.71952819038461,
+          44.90635852214033
+        ],
+        "crs": null
+      },
+      "id": 6,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KAPX",
+        "antennaelevation": null,
+        "sitename": "NCL Michigan",
+        "radartype": "NEXRAD",
+        "objectid": 6
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.19110800508074,
+          43.82278595805663
+        ],
+        "crs": null
+      },
+      "id": 7,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KARX",
+        "antennaelevation": null,
+        "sitename": "La Crosse",
+        "radartype": "NEXRAD",
+        "objectid": 7
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49569906426449,
+          48.1946166286055
+        ],
+        "crs": null
+      },
+      "id": 8,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KATX",
+        "antennaelevation": null,
+        "sitename": "Seattle",
+        "radartype": "NEXRAD",
+        "objectid": 8
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.63167130942487,
+          39.49611614410011
+        ],
+        "crs": null
+      },
+      "id": 9,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KBBX",
+        "antennaelevation": null,
+        "sitename": "Beale AFB",
+        "radartype": "NEXRAD",
+        "objectid": 9
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.98471518081276,
+          42.19970246743383
+        ],
+        "crs": null
+      },
+      "id": 10,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KBGM",
+        "antennaelevation": null,
+        "sitename": "Binghamton",
+        "radartype": "NEXRAD",
+        "objectid": 10
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.29217184252556,
+          40.49833799988165
+        ],
+        "crs": null
+      },
+      "id": 11,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KBHX",
+        "antennaelevation": null,
+        "sitename": "Eureka - Bunker Hill",
+        "radartype": "NEXRAD",
+        "objectid": 11
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.76027809298745,
+          46.77084065575344
+        ],
+        "crs": null
+      },
+      "id": 12,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KBIS",
+        "antennaelevation": null,
+        "sitename": "Bismarck",
+        "radartype": "NEXRAD",
+        "objectid": 12
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.60680784779996,
+          45.853784863378586
+        ],
+        "crs": null
+      },
+      "id": 13,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KBLX",
+        "antennaelevation": null,
+        "sitename": "Billings",
+        "radartype": "NEXRAD",
+        "objectid": 13
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76971785235341,
+          33.17195022205922
+        ],
+        "crs": null
+      },
+      "id": 14,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KBMX",
+        "antennaelevation": null,
+        "sitename": "Birmingham",
+        "radartype": "NEXRAD",
+        "objectid": 14
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13685159327461,
+          41.95578659336907
+        ],
+        "crs": null
+      },
+      "id": 15,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KBOX",
+        "antennaelevation": null,
+        "sitename": "Boston",
+        "radartype": "NEXRAD",
+        "objectid": 15
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.41861038098891,
+          25.91556033489371
+        ],
+        "crs": null
+      },
+      "id": 16,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KBRO",
+        "antennaelevation": null,
+        "sitename": "Brownsville",
+        "radartype": "NEXRAD",
+        "objectid": 16
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.73693811784501,
+          42.94861948926168
+        ],
+        "crs": null
+      },
+      "id": 17,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KBUF",
+        "antennaelevation": null,
+        "sitename": "Buffalo",
+        "radartype": "NEXRAD",
+        "objectid": 17
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70332809094714,
+          24.59694835559539
+        ],
+        "crs": null
+      },
+      "id": 18,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KBYX",
+        "antennaelevation": null,
+        "sitename": "Key West",
+        "radartype": "NEXRAD",
+        "objectid": 18
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11860525727124,
+          33.94861759525832
+        ],
+        "crs": null
+      },
+      "id": 19,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KCAE",
+        "antennaelevation": null,
+        "sitename": "Columbia",
+        "radartype": "NEXRAD",
+        "objectid": 19
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.80640671288532,
+          46.03917643962341
+        ],
+        "crs": null
+      },
+      "id": 20,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KCBW",
+        "antennaelevation": null,
+        "sitename": "Caribou",
+        "radartype": "NEXRAD",
+        "objectid": 20
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.23603599686834,
+          43.49022294101355
+        ],
+        "crs": null
+      },
+      "id": 21,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KCBX",
+        "antennaelevation": null,
+        "sitename": "Boise",
+        "radartype": "NEXRAD",
+        "objectid": 21
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.00388273088191,
+          40.92306414490694
+        ],
+        "crs": null
+      },
+      "id": 22,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KCCX",
+        "antennaelevation": null,
+        "sitename": "State College",
+        "radartype": "NEXRAD",
+        "objectid": 22
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85999496820035,
+          41.41306406724415
+        ],
+        "crs": null
+      },
+      "id": 23,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KCLE",
+        "antennaelevation": null,
+        "sitename": "Cleveland",
+        "radartype": "NEXRAD",
+        "objectid": 23
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.04218917200728,
+          32.655534311216556
+        ],
+        "crs": null
+      },
+      "id": 24,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KCLX",
+        "antennaelevation": null,
+        "sitename": "Charleston, SC",
+        "radartype": "NEXRAD",
+        "objectid": 24
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4599988581295,
+          35.23833915734305
+        ],
+        "crs": null
+      },
+      "id": 25,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KCRI",
+        "antennaelevation": null,
+        "sitename": "ROC FAA Redundant - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 25
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.51083246381415,
+          27.783893723849793
+        ],
+        "crs": null
+      },
+      "id": 26,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KCRP",
+        "antennaelevation": null,
+        "sitename": "Corpus Christi",
+        "radartype": "NEXRAD",
+        "objectid": 26
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16638042681515,
+          44.511119996367036
+        ],
+        "crs": null
+      },
+      "id": 27,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KCXX",
+        "antennaelevation": null,
+        "sitename": "Burlington",
+        "radartype": "NEXRAD",
+        "objectid": 27
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.80611223838773,
+          41.151950623183374
+        ],
+        "crs": null
+      },
+      "id": 28,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KCYS",
+        "antennaelevation": null,
+        "sitename": "Cheyenne",
+        "radartype": "NEXRAD",
+        "objectid": 28
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.67783718894317,
+          38.5011160592513
+        ],
+        "crs": null
+      },
+      "id": 29,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDAX",
+        "antennaelevation": null,
+        "sitename": "Sacramento",
+        "radartype": "NEXRAD",
+        "objectid": 29
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.96888869862163,
+          37.760839446630314
+        ],
+        "crs": null
+      },
+      "id": 30,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDDC",
+        "antennaelevation": null,
+        "sitename": "Dodge City",
+        "radartype": "NEXRAD",
+        "objectid": 30
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.28027819971422,
+          29.27250493356085
+        ],
+        "crs": null
+      },
+      "id": 31,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDFX",
+        "antennaelevation": null,
+        "sitename": "Laughlin AFB",
+        "radartype": "NEXRAD",
+        "objectid": 31
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.98444169945192,
+          32.28000591330734
+        ],
+        "crs": null
+      },
+      "id": 32,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDGX",
+        "antennaelevation": null,
+        "sitename": "Jackson - Brandon, MS",
+        "radartype": "NEXRAD",
+        "objectid": 32
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.41071453140817,
+          39.94695209085751
+        ],
+        "crs": null
+      },
+      "id": 33,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDIX",
+        "antennaelevation": null,
+        "sitename": "Philadelphia",
+        "radartype": "NEXRAD",
+        "objectid": 33
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.20971971532089,
+          46.836952332724
+        ],
+        "crs": null
+      },
+      "id": 34,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDLH",
+        "antennaelevation": null,
+        "sitename": "Duluth",
+        "radartype": "NEXRAD",
+        "objectid": 34
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.72285947458197,
+          41.731118467736884
+        ],
+        "crs": null
+      },
+      "id": 35,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDMX",
+        "antennaelevation": null,
+        "sitename": "Des Moines",
+        "radartype": "NEXRAD",
+        "objectid": 35
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4399927915179,
+          38.82556382876094
+        ],
+        "crs": null
+      },
+      "id": 36,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDOX",
+        "antennaelevation": null,
+        "sitename": "Dover AFB",
+        "radartype": "NEXRAD",
+        "objectid": 36
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.47166257754267,
+          42.7000082180811
+        ],
+        "crs": null
+      },
+      "id": 37,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDTX",
+        "antennaelevation": null,
+        "sitename": "Detroit",
+        "radartype": "NEXRAD",
+        "objectid": 37
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.58083057912519,
+          41.61167463931426
+        ],
+        "crs": null
+      },
+      "id": 38,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDVN",
+        "antennaelevation": null,
+        "sitename": "Quad Cities",
+        "radartype": "NEXRAD",
+        "objectid": 38
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.25416712261521,
+          32.53833858607326
+        ],
+        "crs": null
+      },
+      "id": 39,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KDYX",
+        "antennaelevation": null,
+        "sitename": "Dyess AFB",
+        "radartype": "NEXRAD",
+        "objectid": 39
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.26447032251484,
+          38.81025695187804
+        ],
+        "crs": null
+      },
+      "id": 40,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KEAX",
+        "antennaelevation": null,
+        "sitename": "Pleasant Hill",
+        "radartype": "NEXRAD",
+        "objectid": 40
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.63028062597056,
+          31.893615967576114
+        ],
+        "crs": null
+      },
+      "id": 41,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KEMX",
+        "antennaelevation": null,
+        "sitename": "Tucson",
+        "radartype": "NEXRAD",
+        "objectid": 41
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06407558682606,
+          42.58656461288065
+        ],
+        "crs": null
+      },
+      "id": 42,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KENX",
+        "antennaelevation": null,
+        "sitename": "Albany",
+        "radartype": "NEXRAD",
+        "objectid": 42
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45938539699857,
+          31.460561898085267
+        ],
+        "crs": null
+      },
+      "id": 43,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KEOX",
+        "antennaelevation": null,
+        "sitename": "Fort Rucker",
+        "radartype": "NEXRAD",
+        "objectid": 43
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.69800180327178,
+          31.873061142435066
+        ],
+        "crs": null
+      },
+      "id": 44,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KEPZ",
+        "antennaelevation": null,
+        "sitename": "El Paso",
+        "radartype": "NEXRAD",
+        "objectid": 44
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.89139274137617,
+          35.701116243393066
+        ],
+        "crs": null
+      },
+      "id": 45,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KESX",
+        "antennaelevation": null,
+        "sitename": "Las Vegas",
+        "radartype": "NEXRAD",
+        "objectid": 45
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.92166348804342,
+          30.565038683130492
+        ],
+        "crs": null
+      },
+      "id": 46,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KEVX",
+        "antennaelevation": null,
+        "sitename": "Eglin AFB",
+        "radartype": "NEXRAD",
+        "objectid": 46
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.02861067039109,
+          29.704061094466365
+        ],
+        "crs": null
+      },
+      "id": 47,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KEWX",
+        "antennaelevation": null,
+        "sitename": "Austin - San Antonio",
+        "radartype": "NEXRAD",
+        "objectid": 47
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.56075316049473,
+          35.09778301150991
+        ],
+        "crs": null
+      },
+      "id": 48,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KEYX",
+        "antennaelevation": null,
+        "sitename": "Edwards AFB",
+        "radartype": "NEXRAD",
+        "objectid": 48
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27416117357912,
+          37.02417427996926
+        ],
+        "crs": null
+      },
+      "id": 49,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KFCX",
+        "antennaelevation": null,
+        "sitename": "Roanoke",
+        "radartype": "NEXRAD",
+        "objectid": 49
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.97666717377545,
+          34.362199926570305
+        ],
+        "crs": null
+      },
+      "id": 50,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KFDR",
+        "antennaelevation": null,
+        "sitename": "Altus AFB",
+        "radartype": "NEXRAD",
+        "objectid": 50
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.61889030395193,
+          34.63417273784585
+        ],
+        "crs": null
+      },
+      "id": 51,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KFDX",
+        "antennaelevation": null,
+        "sitename": "Cannon AFB",
+        "radartype": "NEXRAD",
+        "objectid": 51
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5658292336424,
+          33.36333934463933
+        ],
+        "crs": null
+      },
+      "id": 52,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KFFC",
+        "antennaelevation": null,
+        "sitename": "Atlanta",
+        "radartype": "NEXRAD",
+        "objectid": 52
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.72888852318249,
+          43.58778554787883
+        ],
+        "crs": null
+      },
+      "id": 53,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KFSD",
+        "antennaelevation": null,
+        "sitename": "Sioux Falls",
+        "radartype": "NEXRAD",
+        "objectid": 53
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1984459333151,
+          34.57433831749645
+        ],
+        "crs": null
+      },
+      "id": 54,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KFSX",
+        "antennaelevation": null,
+        "sitename": "Flagstaff - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 54
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.54580701067329,
+          39.78664545594612
+        ],
+        "crs": null
+      },
+      "id": 55,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KFTG",
+        "antennaelevation": null,
+        "sitename": "Denver",
+        "radartype": "NEXRAD",
+        "objectid": 55
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.30313864007096,
+          32.57278367610358
+        ],
+        "crs": null
+      },
+      "id": 56,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KFWS",
+        "antennaelevation": null,
+        "sitename": "Dallas - Fort Worth",
+        "radartype": "NEXRAD",
+        "objectid": 56
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.62469485547813,
+          48.20636828640892
+        ],
+        "crs": null
+      },
+      "id": 57,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KGGW",
+        "antennaelevation": null,
+        "sitename": "Glasgow",
+        "radartype": "NEXRAD",
+        "objectid": 57
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.21376275220882,
+          39.06222810370067
+        ],
+        "crs": null
+      },
+      "id": 58,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KGJX",
+        "antennaelevation": null,
+        "sitename": "Grand Junction - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 58
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.70027828571489,
+          39.36695058698846
+        ],
+        "crs": null
+      },
+      "id": 59,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KGLD",
+        "antennaelevation": null,
+        "sitename": "Goodland",
+        "radartype": "NEXRAD",
+        "objectid": 59
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11110717901948,
+          44.49864125723589
+        ],
+        "crs": null
+      },
+      "id": 60,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KGRB",
+        "antennaelevation": null,
+        "sitename": "Green Bay",
+        "radartype": "NEXRAD",
+        "objectid": 60
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.38277755807914,
+          30.72167231789983
+        ],
+        "crs": null
+      },
+      "id": 61,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KGRK",
+        "antennaelevation": null,
+        "sitename": "Fort Hood",
+        "radartype": "NEXRAD",
+        "objectid": 61
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54488522934756,
+          42.893897142290136
+        ],
+        "crs": null
+      },
+      "id": 62,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KGRR",
+        "antennaelevation": null,
+        "sitename": "Grand Rapids",
+        "radartype": "NEXRAD",
+        "objectid": 62
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21982863088199,
+          34.88331275742814
+        ],
+        "crs": null
+      },
+      "id": 63,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KGSP",
+        "antennaelevation": null,
+        "sitename": "Greer",
+        "radartype": "NEXRAD",
+        "objectid": 63
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32919133146214,
+          33.89692331248149
+        ],
+        "crs": null
+      },
+      "id": 64,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KGWX",
+        "antennaelevation": null,
+        "sitename": "Columbus AFB",
+        "radartype": "NEXRAD",
+        "objectid": 64
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.25635141579873,
+          43.89131498456564
+        ],
+        "crs": null
+      },
+      "id": 65,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KGYX",
+        "antennaelevation": null,
+        "sitename": "Portland, ME",
+        "radartype": "NEXRAD",
+        "objectid": 65
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1200337552551,
+          33.07700536228905
+        ],
+        "crs": null
+      },
+      "id": 66,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KHDX",
+        "antennaelevation": null,
+        "sitename": "Holloman AFB",
+        "radartype": "NEXRAD",
+        "objectid": 66
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.07888791600134,
+          29.47194914746079
+        ],
+        "crs": null
+      },
+      "id": 67,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KHGX",
+        "antennaelevation": null,
+        "sitename": "Houston",
+        "radartype": "NEXRAD",
+        "objectid": 67
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.63214262209594,
+          36.314172006455856
+        ],
+        "crs": null
+      },
+      "id": 68,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KHNX",
+        "antennaelevation": null,
+        "sitename": "San Joaquin Valley",
+        "radartype": "NEXRAD",
+        "objectid": 68
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.28499621817456,
+          36.7366739269027
+        ],
+        "crs": null
+      },
+      "id": 69,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KHPX",
+        "antennaelevation": null,
+        "sitename": "Fort Campbell",
+        "radartype": "NEXRAD",
+        "objectid": 69
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.08360775738507,
+          34.93056261655796
+        ],
+        "crs": null
+      },
+      "id": 70,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KHTX",
+        "antennaelevation": null,
+        "sitename": "Northeast Alabama",
+        "radartype": "NEXRAD",
+        "objectid": 70
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.44305505173443,
+          37.65445057557697
+        ],
+        "crs": null
+      },
+      "id": 71,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KICT",
+        "antennaelevation": null,
+        "sitename": "Wichita",
+        "radartype": "NEXRAD",
+        "objectid": 71
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.86222454548957,
+          37.59105560017506
+        ],
+        "crs": null
+      },
+      "id": 72,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KICX",
+        "antennaelevation": null,
+        "sitename": "Cedar City - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 72
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.82166240347033,
+          39.420285603390404
+        ],
+        "crs": null
+      },
+      "id": 73,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KILN",
+        "antennaelevation": null,
+        "sitename": "Cincinnati",
+        "radartype": "NEXRAD",
+        "objectid": 73
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3367890791764,
+          40.15050745931269
+        ],
+        "crs": null
+      },
+      "id": 74,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KILX",
+        "antennaelevation": null,
+        "sitename": "Lincoln",
+        "radartype": "NEXRAD",
+        "objectid": 74
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.28027415465287,
+          39.70750753874811
+        ],
+        "crs": null
+      },
+      "id": 75,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KIND",
+        "antennaelevation": null,
+        "sitename": "Indianapolis",
+        "radartype": "NEXRAD",
+        "objectid": 75
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.56413744162407,
+          36.17500642078247
+        ],
+        "crs": null
+      },
+      "id": 76,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KINX",
+        "antennaelevation": null,
+        "sitename": "Tulsa",
+        "radartype": "NEXRAD",
+        "objectid": 76
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.67000292774551,
+          33.289172116393786
+        ],
+        "crs": null
+      },
+      "id": 77,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KIWA",
+        "antennaelevation": null,
+        "sitename": "Phoenix",
+        "radartype": "NEXRAD",
+        "objectid": 77
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69999612751062,
+          41.35861886684077
+        ],
+        "crs": null
+      },
+      "id": 78,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KIWX",
+        "antennaelevation": null,
+        "sitename": "Northern Indiana",
+        "radartype": "NEXRAD",
+        "objectid": 78
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70189527357739,
+          30.484638794645193
+        ],
+        "crs": null
+      },
+      "id": 79,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KJAX",
+        "antennaelevation": null,
+        "sitename": "Jacksonville",
+        "radartype": "NEXRAD",
+        "objectid": 79
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35110684822371,
+          32.675006237715216
+        ],
+        "crs": null
+      },
+      "id": 80,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KJGX",
+        "antennaelevation": null,
+        "sitename": "Robins AFB",
+        "radartype": "NEXRAD",
+        "objectid": 80
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.31305111988888,
+          37.590840271205
+        ],
+        "crs": null
+      },
+      "id": 81,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KJKL",
+        "antennaelevation": null,
+        "sitename": "Jackson, KY",
+        "radartype": "NEXRAD",
+        "objectid": 81
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.81416781134652,
+          33.65414466622026
+        ],
+        "crs": null
+      },
+      "id": 82,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLBB",
+        "antennaelevation": null,
+        "sitename": "Lubbock",
+        "radartype": "NEXRAD",
+        "objectid": 82
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2158874609855,
+          30.125311345581963
+        ],
+        "crs": null
+      },
+      "id": 83,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLCH",
+        "antennaelevation": null,
+        "sitename": "Lake Charles",
+        "radartype": "NEXRAD",
+        "objectid": 83
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.82541456257006,
+          30.3366725050614
+        ],
+        "crs": null
+      },
+      "id": 84,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLIX",
+        "antennaelevation": null,
+        "sitename": "Slidell",
+        "radartype": "NEXRAD",
+        "objectid": 84
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.57622131322684,
+          41.95795104008101
+        ],
+        "crs": null
+      },
+      "id": 85,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLNX",
+        "antennaelevation": null,
+        "sitename": "North Platte",
+        "radartype": "NEXRAD",
+        "objectid": 85
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.08444085599872,
+          41.60445178139258
+        ],
+        "crs": null
+      },
+      "id": 86,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLOT",
+        "antennaelevation": null,
+        "sitename": "Chicago",
+        "radartype": "NEXRAD",
+        "objectid": 86
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.80278167231488,
+          40.739727642387116
+        ],
+        "crs": null
+      },
+      "id": 87,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLRX",
+        "antennaelevation": null,
+        "sitename": "Elko - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 87
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.68277533039141,
+          38.698896128718495
+        ],
+        "crs": null
+      },
+      "id": 88,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLSX",
+        "antennaelevation": null,
+        "sitename": "Saint Louis",
+        "radartype": "NEXRAD",
+        "objectid": 88
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4291614557722,
+          33.98917369496
+        ],
+        "crs": null
+      },
+      "id": 89,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLTX",
+        "antennaelevation": null,
+        "sitename": "Wilmington",
+        "radartype": "NEXRAD",
+        "objectid": 89
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9438849200889,
+          37.97528522901479
+        ],
+        "crs": null
+      },
+      "id": 90,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLVX",
+        "antennaelevation": null,
+        "sitename": "Louisville",
+        "radartype": "NEXRAD",
+        "objectid": 90
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.26194246947267,
+          34.83639533181493
+        ],
+        "crs": null
+      },
+      "id": 91,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLZK",
+        "antennaelevation": null,
+        "sitename": "Little Rock",
+        "radartype": "NEXRAD",
+        "objectid": 91
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.18925079009946,
+          31.943466351896316
+        ],
+        "crs": null
+      },
+      "id": 92,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMAF",
+        "antennaelevation": null,
+        "sitename": "Midland - Odessa",
+        "radartype": "NEXRAD",
+        "objectid": 92
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71736585526538,
+          42.081116244349204
+        ],
+        "crs": null
+      },
+      "id": 93,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMAX",
+        "antennaelevation": null,
+        "sitename": "Medford - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 93
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.86444342573706,
+          48.39250783600156
+        ],
+        "crs": null
+      },
+      "id": 94,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMBX",
+        "antennaelevation": null,
+        "sitename": "Minot AFB",
+        "radartype": "NEXRAD",
+        "objectid": 94
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87638302255965,
+          34.77583991936186
+        ],
+        "crs": null
+      },
+      "id": 95,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMHX",
+        "antennaelevation": null,
+        "sitename": "Morehead City",
+        "radartype": "NEXRAD",
+        "objectid": 95
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5505521347177,
+          42.96778598386101
+        ],
+        "crs": null
+      },
+      "id": 96,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMKX",
+        "antennaelevation": null,
+        "sitename": "Milwaukee",
+        "radartype": "NEXRAD",
+        "objectid": 96
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65443888324467,
+          28.11306125804252
+        ],
+        "crs": null
+      },
+      "id": 97,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMLB",
+        "antennaelevation": null,
+        "sitename": "Melbourne",
+        "radartype": "NEXRAD",
+        "objectid": 97
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23971914174027,
+          30.67944963270255
+        ],
+        "crs": null
+      },
+      "id": 98,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMOB",
+        "antennaelevation": null,
+        "sitename": "Mobile",
+        "radartype": "NEXRAD",
+        "objectid": 98
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.56552581921585,
+          44.84889695391723
+        ],
+        "crs": null
+      },
+      "id": 99,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMPX",
+        "antennaelevation": null,
+        "sitename": "Minneapolis",
+        "radartype": "NEXRAD",
+        "objectid": 99
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54832926516482,
+          46.531119604905435
+        ],
+        "crs": null
+      },
+      "id": 100,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMQT",
+        "antennaelevation": null,
+        "sitename": "Marquette",
+        "radartype": "NEXRAD",
+        "objectid": 100
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.40193905433313,
+          36.16833998018222
+        ],
+        "crs": null
+      },
+      "id": 101,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMRX",
+        "antennaelevation": null,
+        "sitename": "Knoxville",
+        "radartype": "NEXRAD",
+        "objectid": 101
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.98611424358688,
+          47.04111745700206
+        ],
+        "crs": null
+      },
+      "id": 102,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMSX",
+        "antennaelevation": null,
+        "sitename": "Missoula - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 102
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.44778091777232,
+          41.26278404787225
+        ],
+        "crs": null
+      },
+      "id": 103,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMTX",
+        "antennaelevation": null,
+        "sitename": "Salt Lake City - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 103
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.89844806692146,
+          37.15522692941743
+        ],
+        "crs": null
+      },
+      "id": 104,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMUX",
+        "antennaelevation": null,
+        "sitename": "San Francisco",
+        "radartype": "NEXRAD",
+        "objectid": 104
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.32499929702023,
+          47.52806403272552
+        ],
+        "crs": null
+      },
+      "id": 105,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMVX",
+        "antennaelevation": null,
+        "sitename": "Fargo - Grand Forks",
+        "radartype": "NEXRAD",
+        "objectid": 105
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.78974554182079,
+          32.53665612210103
+        ],
+        "crs": null
+      },
+      "id": 106,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KMXX",
+        "antennaelevation": null,
+        "sitename": "Maxwell AFB",
+        "radartype": "NEXRAD",
+        "objectid": 106
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04194789478207,
+          32.91889379081925
+        ],
+        "crs": null
+      },
+      "id": 107,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KNKX",
+        "antennaelevation": null,
+        "sitename": "San Diego",
+        "radartype": "NEXRAD",
+        "objectid": 107
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.87332985091705,
+          35.344728538176554
+        ],
+        "crs": null
+      },
+      "id": 108,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KNQA",
+        "antennaelevation": null,
+        "sitename": "Memphis",
+        "radartype": "NEXRAD",
+        "objectid": 108
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.36680414413291,
+          41.320285233482075
+        ],
+        "crs": null
+      },
+      "id": 109,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KOAX",
+        "antennaelevation": null,
+        "sitename": "Omaha",
+        "radartype": "NEXRAD",
+        "objectid": 109
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.56249597740934,
+          36.24722886284721
+        ],
+        "crs": null
+      },
+      "id": 110,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KOHX",
+        "antennaelevation": null,
+        "sitename": "Nashville",
+        "radartype": "NEXRAD",
+        "objectid": 110
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.86390909084284,
+          40.86553632576755
+        ],
+        "crs": null
+      },
+      "id": 111,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KOKX",
+        "antennaelevation": null,
+        "sitename": "Brookhaven",
+        "radartype": "NEXRAD",
+        "objectid": 111
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.62583709546756,
+          47.68056212906299
+        ],
+        "crs": null
+      },
+      "id": 112,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KOTX",
+        "antennaelevation": null,
+        "sitename": "Spokane",
+        "radartype": "NEXRAD",
+        "objectid": 112
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7719406635762,
+          37.06833992223178
+        ],
+        "crs": null
+      },
+      "id": 113,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KPAH",
+        "antennaelevation": null,
+        "sitename": "Paducah",
+        "radartype": "NEXRAD",
+        "objectid": 113
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21793839214706,
+          40.53167497703514
+        ],
+        "crs": null
+      },
+      "id": 114,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KPBZ",
+        "antennaelevation": null,
+        "sitename": "Pittsburgh",
+        "radartype": "NEXRAD",
+        "objectid": 114
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.85292088310068,
+          45.69056186430798
+        ],
+        "crs": null
+      },
+      "id": 115,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KPDT",
+        "antennaelevation": null,
+        "sitename": "Pendleton",
+        "radartype": "NEXRAD",
+        "objectid": 115
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.97583144644958,
+          31.15528356812697
+        ],
+        "crs": null
+      },
+      "id": 116,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KPOE",
+        "antennaelevation": null,
+        "sitename": "Fort Polk",
+        "radartype": "NEXRAD",
+        "objectid": 116
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.18138977959435,
+          38.4594502920364
+        ],
+        "crs": null
+      },
+      "id": 117,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KPUX",
+        "antennaelevation": null,
+        "sitename": "Pueblo",
+        "radartype": "NEXRAD",
+        "objectid": 117
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4899945574307,
+          35.66528505942677
+        ],
+        "crs": null
+      },
+      "id": 118,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KRAX",
+        "antennaelevation": null,
+        "sitename": "Raleigh Durham",
+        "radartype": "NEXRAD",
+        "objectid": 118
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.46203199578014,
+          39.754061338454115
+        ],
+        "crs": null
+      },
+      "id": 119,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KRGX",
+        "antennaelevation": null,
+        "sitename": "Reno - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 119
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4773013445159,
+          43.066117572722945
+        ],
+        "crs": null
+      },
+      "id": 120,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KRIW",
+        "antennaelevation": null,
+        "sitename": "Riverton Lander",
+        "radartype": "NEXRAD",
+        "objectid": 120
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72277269300716,
+          38.311118481906114
+        ],
+        "crs": null
+      },
+      "id": 121,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KRLX",
+        "antennaelevation": null,
+        "sitename": "Charleston, WV",
+        "radartype": "NEXRAD",
+        "objectid": 121
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96500456708084,
+          45.71500544659098
+        ],
+        "crs": null
+      },
+      "id": 122,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KRTX",
+        "antennaelevation": null,
+        "sitename": "Portland, OR",
+        "radartype": "NEXRAD",
+        "objectid": 122
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.68613524378407,
+          43.10560622036288
+        ],
+        "crs": null
+      },
+      "id": 123,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KSFX",
+        "antennaelevation": null,
+        "sitename": "Pocatello",
+        "radartype": "NEXRAD",
+        "objectid": 123
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.40027595354623,
+          37.23528472280441
+        ],
+        "crs": null
+      },
+      "id": 124,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KSGF",
+        "antennaelevation": null,
+        "sitename": "Springfield",
+        "radartype": "NEXRAD",
+        "objectid": 124
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.84124874232013,
+          32.450838796494615
+        ],
+        "crs": null
+      },
+      "id": 125,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KSHV",
+        "antennaelevation": null,
+        "sitename": "Shreveport",
+        "radartype": "NEXRAD",
+        "objectid": 125
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.49222235461352,
+          31.371116319848454
+        ],
+        "crs": null
+      },
+      "id": 126,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KSJT",
+        "antennaelevation": null,
+        "sitename": "San Angelo",
+        "radartype": "NEXRAD",
+        "objectid": 126
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.63600306543327,
+          33.81773786371807
+        ],
+        "crs": null
+      },
+      "id": 127,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KSOX",
+        "antennaelevation": null,
+        "sitename": "Santa Ana Mountains",
+        "radartype": "NEXRAD",
+        "objectid": 127
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3618870607942,
+          35.29042331898914
+        ],
+        "crs": null
+      },
+      "id": 128,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KSRX",
+        "antennaelevation": null,
+        "sitename": "Western Arkansas",
+        "radartype": "NEXRAD",
+        "objectid": 128
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40193937766621,
+          27.70528311471474
+        ],
+        "crs": null
+      },
+      "id": 129,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KTBW",
+        "antennaelevation": null,
+        "sitename": "Tampa",
+        "radartype": "NEXRAD",
+        "objectid": 129
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.38528078722783,
+          47.459728752334755
+        ],
+        "crs": null
+      },
+      "id": 130,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KTFX",
+        "antennaelevation": null,
+        "sitename": "Great Falls",
+        "radartype": "NEXRAD",
+        "objectid": 130
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32888502816644,
+          30.397505695070276
+        ],
+        "crs": null
+      },
+      "id": 131,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KTLH",
+        "antennaelevation": null,
+        "sitename": "Tallahassee",
+        "radartype": "NEXRAD",
+        "objectid": 131
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.27776081827291,
+          35.33306218351651
+        ],
+        "crs": null
+      },
+      "id": 132,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KTLX",
+        "antennaelevation": null,
+        "sitename": "Norman",
+        "radartype": "NEXRAD",
+        "objectid": 132
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.23249886305894,
+          38.99695086943614
+        ],
+        "crs": null
+      },
+      "id": 133,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KTWX",
+        "antennaelevation": null,
+        "sitename": "Topeka",
+        "radartype": "NEXRAD",
+        "objectid": 133
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67999219781787,
+          43.755841764314916
+        ],
+        "crs": null
+      },
+      "id": 134,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KTYX",
+        "antennaelevation": null,
+        "sitename": "Fort Drum",
+        "radartype": "NEXRAD",
+        "objectid": 134
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.83000018170833,
+          44.12472915987411
+        ],
+        "crs": null
+      },
+      "id": 135,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KUDX",
+        "antennaelevation": null,
+        "sitename": "Rapid City",
+        "radartype": "NEXRAD",
+        "objectid": 135
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.44194357527697,
+          40.32083994365277
+        ],
+        "crs": null
+      },
+      "id": 136,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KUEX",
+        "antennaelevation": null,
+        "sitename": "Grand Island",
+        "radartype": "NEXRAD",
+        "objectid": 136
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00180166704737,
+          30.89028384886853
+        ],
+        "crs": null
+      },
+      "id": 137,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KVAX",
+        "antennaelevation": null,
+        "sitename": "Moody AFB",
+        "radartype": "NEXRAD",
+        "objectid": 137
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.39792160466699,
+          34.83855481213029
+        ],
+        "crs": null
+      },
+      "id": 138,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KVBX",
+        "antennaelevation": null,
+        "sitename": "Vandenberg AFB",
+        "radartype": "NEXRAD",
+        "objectid": 138
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.12749914644819,
+          36.740839383079525
+        ],
+        "crs": null
+      },
+      "id": 139,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KVNX",
+        "antennaelevation": null,
+        "sitename": "Vance AFB",
+        "radartype": "NEXRAD",
+        "objectid": 139
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.17861437165006,
+          34.41167184132599
+        ],
+        "crs": null
+      },
+      "id": 140,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KVTX",
+        "antennaelevation": null,
+        "sitename": "Los Angeles",
+        "radartype": "NEXRAD",
+        "objectid": 140
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72452445668277,
+          38.26025719843706
+        ],
+        "crs": null
+      },
+      "id": 141,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KVWX",
+        "antennaelevation": null,
+        "sitename": "Evansville, IN (Non-Nexrad)",
+        "radartype": "NEXRAD",
+        "objectid": 141
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6566974394679,
+          32.49528285903963
+        ],
+        "crs": null
+      },
+      "id": 142,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KYUX",
+        "antennaelevation": null,
+        "sitename": "Yuma - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 142
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.52917384447494,
+          56.85278206665173
+        ],
+        "crs": null
+      },
+      "id": 143,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PACG",
+        "antennaelevation": null,
+        "sitename": "Sitka FAA - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 143
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.29500843181944,
+          64.51138782530153
+        ],
+        "crs": null
+      },
+      "id": 144,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PAEC",
+        "antennaelevation": null,
+        "sitename": "Nome FAA - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 144
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.34917568108423,
+          60.72639043502496
+        ],
+        "crs": null
+      },
+      "id": 145,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PAHG",
+        "antennaelevation": null,
+        "sitename": "Anchorage FAA - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 145
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.30111888621832,
+          59.461946320065046
+        ],
+        "crs": null
+      },
+      "id": 146,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PAIH",
+        "antennaelevation": null,
+        "sitename": "Middleton Island - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 146
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.62945219071696,
+          58.67944475747774
+        ],
+        "crs": null
+      },
+      "id": 147,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PAKC",
+        "antennaelevation": null,
+        "sitename": "King Salmon FAA - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 147
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.4991772131978,
+          65.03555780025258
+        ],
+        "crs": null
+      },
+      "id": 148,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PAPD",
+        "antennaelevation": null,
+        "sitename": "Fairbanks FAA - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 148
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81111321050042,
+          13.455839893954115
+        ],
+        "crs": null
+      },
+      "id": 149,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PGUA",
+        "antennaelevation": null,
+        "sitename": "Andersen AFB",
+        "radartype": "NEXRAD",
+        "objectid": 149
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.55250632599208,
+          21.893892402688433
+        ],
+        "crs": null
+      },
+      "id": 150,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PHKI",
+        "antennaelevation": null,
+        "sitename": "South Kauai FAA - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 150
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.7777854859522,
+          20.125281456273633
+        ],
+        "crs": null
+      },
+      "id": 151,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PHKM",
+        "antennaelevation": null,
+        "sitename": "Kamuela - Kohala APT - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 151
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.18028442829763,
+          21.132781425177555
+        ],
+        "crs": null
+      },
+      "id": 152,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PHMO",
+        "antennaelevation": null,
+        "sitename": "Molokai FAA - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 152
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.568895514984,
+          19.095003500053316
+        ],
+        "crs": null
+      },
+      "id": 153,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PHWA",
+        "antennaelevation": null,
+        "sitename": "South Shore FAA - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 153
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07815726322447,
+          18.11566981108796
+        ],
+        "crs": null
+      },
+      "id": 154,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TJUA",
+        "antennaelevation": null,
+        "sitename": "San Juan FAA - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 154
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.48749344010847,
+          38.976118784252584
+        ],
+        "crs": null
+      },
+      "id": 155,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "KLWX",
+        "antennaelevation": null,
+        "sitename": "Sterling",
+        "radartype": "NEXRAD",
+        "objectid": 155
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.87639704141415,
+          60.79194375225516
+        ],
+        "crs": null
+      },
+      "id": 156,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "PABC",
+        "antennaelevation": null,
+        "sitename": "Bethel FAA - RDA 1",
+        "radartype": "NEXRAD",
+        "objectid": 156
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84500222324851,
+          38.695007751477945
+        ],
+        "crs": null
+      },
+      "id": 157,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TADW",
+        "antennaelevation": 346,
+        "sitename": "Andrews Air Force Base",
+        "radartype": "TDWR",
+        "objectid": 157
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26200416079142,
+          33.64700641704227
+        ],
+        "crs": null
+      },
+      "id": 158,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TATL",
+        "antennaelevation": 1075,
+        "sitename": "Atlanta",
+        "radartype": "TDWR",
+        "objectid": 158
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66200498810515,
+          35.98000680530631
+        ],
+        "crs": null
+      },
+      "id": 159,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TBNA",
+        "antennaelevation": 817,
+        "sitename": "Nashville",
+        "radartype": "TDWR",
+        "objectid": 159
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93300053773804,
+          42.15800863862626
+        ],
+        "crs": null
+      },
+      "id": 160,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TBOS",
+        "antennaelevation": 264,
+        "sitename": "Boston",
+        "radartype": "TDWR",
+        "objectid": 160
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63000217941571,
+          39.09000783903337
+        ],
+        "crs": null
+      },
+      "id": 161,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TBWI",
+        "antennaelevation": 297,
+        "sitename": "Baltimore - Washington",
+        "radartype": "TDWR",
+        "objectid": 161
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.88500326075932,
+          35.33700690313083
+        ],
+        "crs": null
+      },
+      "id": 162,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TCLT",
+        "antennaelevation": 871,
+        "sitename": "Charlotte",
+        "radartype": "TDWR",
+        "objectid": 162
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.71500411638944,
+          40.00600776534087
+        ],
+        "crs": null
+      },
+      "id": 163,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TCMH",
+        "antennaelevation": 1148,
+        "sitename": "Columbus, OH",
+        "radartype": "TDWR",
+        "objectid": 163
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58000458863867,
+          38.898007469140026
+        ],
+        "crs": null
+      },
+      "id": 164,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TCVG",
+        "antennaelevation": 1053,
+        "sitename": "Covington",
+        "radartype": "TDWR",
+        "objectid": 164
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.96800757691076,
+          32.92600575773003
+        ],
+        "crs": null
+      },
+      "id": 165,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TDAL",
+        "antennaelevation": 622,
+        "sitename": "Dallas Love Field",
+        "radartype": "TDWR",
+        "objectid": 165
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12300454096084,
+          40.022007702342464
+        ],
+        "crs": null
+      },
+      "id": 166,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TDAY",
+        "antennaelevation": 1019,
+        "sitename": "Dayton",
+        "radartype": "TDWR",
+        "objectid": 166
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96200226346777,
+          38.75900776034499
+        ],
+        "crs": null
+      },
+      "id": 167,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TDCA",
+        "antennaelevation": 345,
+        "sitename": "Washington National",
+        "radartype": "TDWR",
+        "objectid": 167
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5260099995273,
+          39.728006449403296
+        ],
+        "crs": null
+      },
+      "id": 168,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TDEN",
+        "antennaelevation": 5701,
+        "sitename": "Denver",
+        "radartype": "TDWR",
+        "objectid": 168
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.91800757277551,
+          33.06500578565727
+        ],
+        "crs": null
+      },
+      "id": 169,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TDFW",
+        "antennaelevation": 585,
+        "sitename": "Dallas - Fort Worth",
+        "radartype": "TDWR",
+        "objectid": 169
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.51500453649001,
+          42.11100811251353
+        ],
+        "crs": null
+      },
+      "id": 170,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TDTW",
+        "antennaelevation": 772,
+        "sitename": "Detroit",
+        "radartype": "TDWR",
+        "objectid": 170
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2700015260901,
+          40.59300822382098
+        ],
+        "crs": null
+      },
+      "id": 171,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TEWR",
+        "antennaelevation": 136,
+        "sitename": "Newark",
+        "radartype": "TDWR",
+        "objectid": 171
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34400273451868,
+          26.143004776148643
+        ],
+        "crs": null
+      },
+      "id": 172,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TFLL",
+        "antennaelevation": 120,
+        "sitename": "Fort Lauderdale",
+        "radartype": "TDWR",
+        "objectid": 172
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.24200695985073,
+          29.516005151065343
+        ],
+        "crs": null
+      },
+      "id": 173,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "THOU",
+        "antennaelevation": 117,
+        "sitename": "Houston Hobby",
+        "radartype": "TDWR",
+        "objectid": 173
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52900245948209,
+          39.084007804105966
+        ],
+        "crs": null
+      },
+      "id": 174,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TIAD",
+        "antennaelevation": 473,
+        "sitename": "Dulles",
+        "radartype": "TDWR",
+        "objectid": 174
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.56700706757837,
+          30.0650052527165
+        ],
+        "crs": null
+      },
+      "id": 175,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TIAH",
+        "antennaelevation": 253,
+        "sitename": "Houston International",
+        "radartype": "TDWR",
+        "objectid": 175
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.43700803700949,
+          37.507006551406064
+        ],
+        "crs": null
+      },
+      "id": 176,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TICH",
+        "antennaelevation": 1351,
+        "sitename": "Witchita",
+        "radartype": "TDWR",
+        "objectid": 176
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.43600519489087,
+          39.637007518000466
+        ],
+        "crs": null
+      },
+      "id": 177,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TIDS",
+        "antennaelevation": 847,
+        "sitename": "Indianapolis",
+        "radartype": "TDWR",
+        "objectid": 177
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8810014013912,
+          40.589008236691576
+        ],
+        "crs": null
+      },
+      "id": 178,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TJFK",
+        "antennaelevation": 112,
+        "sitename": "New York City",
+        "radartype": "TDWR",
+        "objectid": 178
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.00701180420407,
+          36.14400528845951
+        ],
+        "crs": null
+      },
+      "id": 179,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TLAS",
+        "antennaelevation": 2058,
+        "sitename": "Las Vegas",
+        "radartype": "TDWR",
+        "objectid": 179
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.00800400401779,
+          41.290008037647134
+        ],
+        "crs": null
+      },
+      "id": 180,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TLVE",
+        "antennaelevation": 931,
+        "sitename": "Cleveland, OH",
+        "radartype": "TDWR",
+        "objectid": 180
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.742007516776,
+          39.49800704077618
+        ],
+        "crs": null
+      },
+      "id": 181,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TMCI",
+        "antennaelevation": 1090,
+        "sitename": "Kansas City",
+        "radartype": "TDWR",
+        "objectid": 181
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.32600308612832,
+          28.344005297251258
+        ],
+        "crs": null
+      },
+      "id": 182,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TMCO",
+        "antennaelevation": 169,
+        "sitename": "Orlando International",
+        "radartype": "TDWR",
+        "objectid": 182
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.73000575645922,
+          41.651007809149064
+        ],
+        "crs": null
+      },
+      "id": 183,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TMDW",
+        "antennaelevation": 763,
+        "sitename": "Chicago Midway",
+        "radartype": "TDWR",
+        "objectid": 183
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.99300585468839,
+          34.896006443949695
+        ],
+        "crs": null
+      },
+      "id": 184,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TMEM",
+        "antennaelevation": 483,
+        "sitename": "Memphis",
+        "radartype": "TDWR",
+        "objectid": 184
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.49100276733765,
+          25.758004675784854
+        ],
+        "crs": null
+      },
+      "id": 185,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TMIA",
+        "antennaelevation": 125,
+        "sitename": "Miami",
+        "radartype": "TDWR",
+        "objectid": 185
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.04600596944371,
+          42.81900798854204
+        ],
+        "crs": null
+      },
+      "id": 186,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TMKE",
+        "antennaelevation": 933,
+        "sitename": "Milwaukee",
+        "radartype": "TDWR",
+        "objectid": 186
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.93300764114804,
+          44.87100800043263
+        ],
+        "crs": null
+      },
+      "id": 187,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TMSP",
+        "antennaelevation": 1121,
+        "sitename": "Minneapolis",
+        "radartype": "TDWR",
+        "objectid": 187
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.40300570534131,
+          30.022005417749515
+        ],
+        "crs": null
+      },
+      "id": 188,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TMSY",
+        "antennaelevation": 99,
+        "sitename": "New Orleans",
+        "radartype": "TDWR",
+        "objectid": 188
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.51000787326538,
+          35.27600616112258
+        ],
+        "crs": null
+      },
+      "id": 189,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TOKC",
+        "antennaelevation": 1308,
+        "sitename": "Oklahoma City",
+        "radartype": "TDWR",
+        "objectid": 189
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85800580926634,
+          41.79700782719159
+        ],
+        "crs": null
+      },
+      "id": 190,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TORD",
+        "antennaelevation": 744,
+        "sitename": "Chicago O'Hare",
+        "radartype": "TDWR",
+        "objectid": 190
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27300272864662,
+          26.68800491504542
+        ],
+        "crs": null
+      },
+      "id": 191,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TPBI",
+        "antennaelevation": 133,
+        "sitename": "West Palm Beach",
+        "radartype": "TDWR",
+        "objectid": 191
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.06900174039376,
+          39.94900806814439
+        ],
+        "crs": null
+      },
+      "id": 192,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TPHL",
+        "antennaelevation": 153,
+        "sitename": "Philadelphia",
+        "radartype": "TDWR",
+        "objectid": 192
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.16301103359392,
+          33.421005108714525
+        ],
+        "crs": null
+      },
+      "id": 193,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TPHX",
+        "antennaelevation": 1089,
+        "sitename": "Phoenix",
+        "radartype": "TDWR",
+        "objectid": 193
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.48600347299991,
+          40.501007959229646
+        ],
+        "crs": null
+      },
+      "id": 194,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TPIT",
+        "antennaelevation": 1386,
+        "sitename": "Pittsburgh",
+        "radartype": "TDWR",
+        "objectid": 194
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.69700263872704,
+          36.00200712381075
+        ],
+        "crs": null
+      },
+      "id": 195,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TRDU",
+        "antennaelevation": 515,
+        "sitename": "Raleigh Durham",
+        "radartype": "TDWR",
+        "objectid": 195
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.61000482833552,
+          38.046007258402426
+        ],
+        "crs": null
+      },
+      "id": 196,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TSDF",
+        "antennaelevation": 731,
+        "sitename": "Louisville, KY",
+        "radartype": "TDWR",
+        "objectid": 196
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.17899830121348,
+          18.47400291457343
+        ],
+        "crs": null
+      },
+      "id": 197,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TSJU",
+        "antennaelevation": 157,
+        "sitename": "San Juan",
+        "radartype": "TDWR",
+        "objectid": 197
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93001177160335,
+          40.96700605716126
+        ],
+        "crs": null
+      },
+      "id": 198,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TSLC",
+        "antennaelevation": 4295,
+        "sitename": "Salt Lake City",
+        "radartype": "TDWR",
+        "objectid": 198
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.48900628557912,
+          38.80500715853983
+        ],
+        "crs": null
+      },
+      "id": 199,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TSTL",
+        "antennaelevation": 647,
+        "sitename": "Saint Louis",
+        "radartype": "TDWR",
+        "objectid": 199
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.51800341647855,
+          27.860005149038088
+        ],
+        "crs": null
+      },
+      "id": 200,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TTPA",
+        "antennaelevation": 93,
+        "sitename": "Tampa Bay",
+        "radartype": "TDWR",
+        "objectid": 200
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.82700750230681,
+          36.07100638872839
+        ],
+        "crs": null
+      },
+      "id": 201,
+      "type": "Feature",
+      "properties": {
+        "siteidentifier": "TTUL",
+        "antennaelevation": 823,
+        "sitename": "Tulsa",
+        "radartype": "TDWR",
+        "objectid": 201
+      }
+    }
+  ],
+  "type": "FeatureCollection",
+  "properties": {
+    "exceededTransferLimit": false
+  }
+}

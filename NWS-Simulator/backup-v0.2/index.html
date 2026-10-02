@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NWS Simulator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main id="app">
+    <section id="menu-screen" class="screen active" aria-label="Main menu">
+      <div class="menu-map-wrap"><svg id="menu-map" aria-hidden="true"></svg></div>
+      <div class="menu-vignette"></div>
+      <div class="menu-card">
+        <div class="eyebrow"><span></span> WEATHER INTELLIGENCE SIMULATION</div>
+        <h1>NWS <em>SIMULATOR</em></h1>
+        <p>Analyze the atmosphere. Read the signals.<br>Make the call.</p>
+        <div class="menu-actions">
+          <button id="play-button" class="button button-primary">PLAY <b>›</b></button>
+          <button id="exit-button" class="button button-secondary">EXIT</button>
+        </div>
+        <div class="menu-version">BUILD 0.2.0 &nbsp;•&nbsp; METEOROLOGY LAB</div>
+      </div>
+      <div class="menu-footer">NATIONAL WEATHER SIMULATION CENTER <span>◈</span> 2026</div>
+    </section>
+
+    <section id="game-screen" class="screen" aria-label="Weather map">
+      <div class="map-canvas"><svg id="weather-map" aria-label="Map of the contiguous United States"></svg></div>
+      <header class="topbar">
+        <div class="brand"><span class="brand-mark">NWS</span><span>SIMULATOR</span></div>
+        <div class="mode-title"><span class="live-dot"></span> IDEALIZED WEATHER LAB</div>
+        <div class="topbar-right"><span id="map-status">MAP READY</span><button id="menu-button" title="Return to main menu">MENU</button></div>
+      </header>
+
+      <aside class="left-controls">
+        <button id="spc-button" class="tool-button"><span class="tool-icon">⚡</span><span>SPC</span></button>
+        <button id="jet-button" class="tool-button"><span class="tool-icon">≋</span><span>JET<br>STREAM</span></button>
+        <button id="radar-button" class="tool-button"><span class="tool-icon">◉</span><span>RADAR</span></button>
+        <div class="tool-rule"></div>
+        <button id="crosshair-button" class="icon-button" title="Radar measurement cursor">⌖</button>
+        <button id="reset-view" class="icon-button" title="Reset map view">⊙</button>
+        <div class="zoom-controls"><button id="zoom-in" title="Zoom in">+</button><button id="zoom-out" title="Zoom out">−</button></div>
+      </aside>
+
+      <section id="spc-panel" class="spc-panel hidden">
+        <div class="panel-head"><div><span class="panel-kicker">STORM PREDICTION CENTER</span><h2>Convective Outlook</h2></div><button id="close-spc" aria-label="Close SPC panel">×</button></div>
+        <div class="day-switch" role="tablist"><button class="day-tab" data-day="1">DAY 1<span>Today</span></button><button class="day-tab" data-day="2">DAY 2<span>Tomorrow</span></button><button class="day-tab" data-day="3">DAY 3<span>Extended</span></button></div>
+        <div class="outlook-summary"><span class="pulse"></span><span id="outlook-copy">Select a forecast day to display its categorical outlook.</span></div>
+        <div class="legend-title">CATEGORICAL RISK</div>
+        <div class="legend" aria-label="SPC categorical risk legend">
+          <div><i class="risk-tstm"></i><span>TSTM</span></div><div><i class="risk-mrgl"></i><span>MRGL</span></div><div><i class="risk-slgt"></i><span>SLGT</span></div><div><i class="risk-enh"></i><span>ENH</span></div><div><i class="risk-mdt"></i><span>MDT</span></div><div><i class="risk-high"></i><span>HIGH</span></div>
+        </div>
+        <p class="panel-note">Experimental simulated guidance • Not for operational use</p>
+      </section>
+
+      <section id="jet-panel" class="data-panel hidden">
+        <div class="panel-head"><div><span class="panel-kicker">UPPER-AIR ANALYSIS</span><h2>Jet Stream</h2></div><button class="close-panel" data-panel="jet-panel">×</button></div>
+        <div class="jet-readout"><span class="jet-swatch"></span><div><b id="jet-regime-name">ACTIVE JET</b><small id="jet-regime-copy">Five isotach streamlines are simulated across the analysis domain.</small></div></div>
+        <button id="jet-toggle" class="wide-tool">SHOW JET STREAM</button><div class="legend-title">250 hPa PATTERN PRESETS</div>
+        <div class="jet-choices"><button class="jet-choice selected" data-jet="0">CENTRAL<span>Trough</span></button><button class="jet-choice" data-jet="1">EASTERN<span>Trough</span></button><button class="jet-choice" data-jet="2">NORTHERN<span>Jet</span></button></div>
+        <p class="panel-note">Click JET STREAM to enable the overlay. Right-click for 250 hPa wind speed (not bulk shear). Patterns are illustrative presets.</p>
+      </section>
+
+      <section id="radar-panel" class="data-panel hidden">
+        <div class="panel-head"><div><span class="panel-kicker">NEXRAD SIMULATION</span><h2>Radar Workstation</h2></div><button class="close-panel" data-panel="radar-panel">×</button></div>
+        <label class="control-label" for="scenario-select">WEATHER SCENARIO</label>
+<select id="scenario-select"><option value="supercell">Classic supercell</option><option value="qlcs">QLCS / squall line</option><option value="mcs">Mesoscale convective system</option><option value="rain">Stratiform rain</option><option value="cells">Cumulonimbus / multicells</option><option value="tropical">Tropical storm</option><option value="hurricane">Hurricane · Category 2</option><option value="noreaster">Nor’easter</option><option value="bomb">Explosively deepening cyclone</option></select>
+<p id="scenario-description" class="scenario-description"></p>
+<div class="simulation-controls"><button id="simulation-play">PLAY</button><button id="simulation-step">+5 MIN</button><button id="simulation-reset">RESET</button><span id="simulation-clock">T + 0 min</span></div>
+<div class="radar-products"><button class="radar-product selected" data-product="reflectivity">BASE REFLECTIVITY<span>dBZ</span></button><button class="radar-product " data-product="composite">COMPOSITE REFLECTIVITY<span>dBZ</span></button><button class="radar-product " data-product="velocity">RADIAL VELOCITY<span>kt</span></button><button class="radar-product " data-product="stormRelative">STORM-RELATIVE VELOCITY<span>kt</span></button><button class="radar-product " data-product="zdr">DIFFERENTIAL REFLECTIVITY<span>dB</span></button><button class="radar-product " data-product="cc">CORRELATION COEFFICIENT<span>ρhv</span></button><button class="radar-product " data-product="kdp">SPECIFIC DIFFERENTIAL PHASE<span>°/km</span></button><button class="radar-product " data-product="rainRate">RAIN RATE ESTIMATE<span>mm/h</span></button><button class="radar-product " data-product="echoTop">18 DBZ ECHO TOP<span>km</span></button><button class="radar-product " data-product="hydro">HYDROMETEOR TYPE<span>class</span></button></div>
+<div class="scan-controls"><label for="radar-elevation">Elevation</label><select id="radar-elevation"><option value="0.5">0.5°</option><option value="1.5">1.5°</option><option value="2.4">2.4°</option><option value="4.0">4.0°</option></select><button id="focus-radar">FOCUS</button><button id="radar-toggle">HIDE RADAR</button></div>
+        <button id="radar-site-button" class="wide-tool">SELECT RADAR SITE <span id="radar-site-name">KTLX • Oklahoma City</span></button>
+        <div id="radar-sites" class="radar-sites hidden"></div>
+        <button id="boundary-button" class="wide-tool">SHOW FRONTS &amp; PRESSURE</button>
+        <div class="radar-key"><span class="radar-key-title">SIMULATED <b id="radar-unit">dBZ</b></span><i></i><span id="radar-scale">5 &nbsp; 25 &nbsp; 45 &nbsp; 65+</span></div>
+        <p id="product-description" class="scenario-description"></p><p class="panel-note">230 km scan • 50 / 100 / 150 / 230 km rings<br>Idealized fields and derived proxies • No live observations</p>
+      </section>
+
+      <section id="thermo-panel" class="thermo-panel hidden">
+        <div class="thermo-head"><div><span class="panel-kicker">ILLUSTRATIVE ENVIRONMENT</span><h2 id="city-name">Location</h2><p id="city-subtitle">Click the map to inspect a city.</p></div><button id="close-thermo">×</button></div>
+        <div id="thermo-page" class="thermo-page active"><div id="thermo-grid" class="thermo-grid"></div><div class="swipe-note">SWIPE LEFT FOR SOUNDING →</div></div>
+        <div id="sounding-page" class="thermo-page"><div class="sounding-layout"><svg id="skewt" viewBox="0 0 160 190" aria-label="Simulated skew-T diagram"></svg><svg id="hodograph" viewBox="0 0 170 190" aria-label="Simulated hodograph"></svg></div><div class="swipe-note">← SWIPE RIGHT FOR VALUES</div></div>
+      </section>
+
+      <div id="shear-tooltip" class="map-tooltip hidden"></div>
+      <div id="measure-readout" class="measure-readout hidden">⌖ <span>--</span></div>
+
+      <div class="map-hint"><span>DRAG</span> TO PAN <b>•</b> <span>SCROLL</span> TO ZOOM</div>
+      <div class="coordinates" id="coordinates">48 CONUS • 1:1 SCALE</div>
+    </section>
+  </main>
+  <script src="renderer.js"></script>
+</body>
+</html>
